@@ -1,7 +1,8 @@
 
 
 # CICD in codebuild
-![Screenshot (156)](https://github.com/user-attachments/assets/f236b649-0806-4d26-8dbf-d985b1765425)
+![Screenshot (156)](https://github.com/user-attachments/assets/94922d9c-e5a2-4ecf-878a-3e75ccb95dcc)
+
 
 # test on lambda
-![Screenshot (158)](https://github.com/user-attachments/assets/9387fbbe-4f8d-44ee-99b6-10962987c250)
+![Screenshot (158)](https://github.com/user-attachments/assets/ae767b29-49f4-4398-ba64-ce0529b453d9)
